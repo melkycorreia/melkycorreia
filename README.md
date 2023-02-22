@@ -1,6 +1,6 @@
 # Biografia:
 
-<li>Bem vindos(a) meu nome e Melky Correia, Sou brasileiro?</li>
+<li>Bem vindos(a) meu nome e Melky Correia</li>
 
 ### Profissão: 
 
