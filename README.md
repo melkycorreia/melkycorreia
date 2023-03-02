@@ -17,4 +17,4 @@
 (Os benefícios desse tipo de site incluem a possibilidade de realizar Análises de vulnerabilidade de sites de forma mais rápida e automatizada, com uma interface de usuário amigável e fácil de usar.)
 
 ### [Conjunto de dados Íris](https://github.com/melkycorreia/Conjunto-de-dados-Iris.git)
-(O conjunto de dados Íris é um dos conjuntos de dados mais populares em ciência de dados e aprendizado de máquina. Vísualiza o Grafico no App de desenvolvedor Pydroid3 na playStore
+(O conjunto de dados Íris é um dos conjuntos de dados mais populares em ciência de dados e aprendizado de máquina Vísualiza o Grafico no App de desenvolvedor Pydroid3 na playStore)
