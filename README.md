@@ -18,3 +18,9 @@
 
 ### [Conjunto de dados Íris](https://github.com/melkycorreia/Conjunto-de-dados-Iris.git)
 (O conjunto de dados Íris é um dos conjuntos de dados mais populares em ciência de dados e aprendizado de máquina Vísualiza o Grafico no App de desenvolvedor Pydroid3 na playStore)
+
+
+###  [Técnica de Regressão Linear](https://github.com/melkycorreia/Linear.git)
+
+
+As técnicas de Regressão Linear em Python são utilizadas para modelar a relação entre variáveis de entrada e uma variável de saída contínua. Isso pode ser útil em diversas áreas, como por exemplo: Análise de dados, Ciência de dados, Engenharia, Pesquisa.
